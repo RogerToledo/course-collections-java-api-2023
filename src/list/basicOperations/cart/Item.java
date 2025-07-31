@@ -1,4 +1,4 @@
-package list.basicOperations.buy;
+package list.basicOperations.cart;
 
 public class Item {
     private String name;
